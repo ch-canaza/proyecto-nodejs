@@ -1,6 +1,7 @@
 .jumbotron {
     background-color: rgb(94, 206, 169);
     color: black;
+    margin-top: 40px;
 }
 .btn {
     background-color: beige;
