@@ -1,15 +1,17 @@
 .jumbotron {
-    background-color: yellow;
+    background-color: rgb(94, 206, 169);
     color: black;
 }
 .btn {
-    background-color: green;
+    background-color: beige;
+    color: black;
 }
 
 footer {
     padding: 10px 10px 0 10px;
-    background-color: gray;
-    color:red;
+    height: 100%;
+    background-color: rgb(94, 206, 169);
+    color:rgb(173, 4, 60);
     margin-bottom: 0px;
     margin-top: 20px;
 }
@@ -20,6 +22,6 @@ footer {
 }
 
 .btn-reserva {
-    width: 100px;
+    width: 100%;
     
 }
